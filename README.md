@@ -8,6 +8,8 @@ For more information on Shippo's Shipping Elements, see the [Shipping Elements d
 
 The Shipping Elements SDK is installed at [public/index.html](public/index.html) and with the bulk of the implementation in [src/App.js](src/App.js). When running the application you will be prompted to enter an authentication token. You may use a session token from our [authz endpoint](https://docs.goshippo.com/docs/shippingelements/auth/#authorization) or an API token. If you do not have a Shippo account, you can sign up for one [here](https://goshippo.com/join/).
 
+View demo of this repo at [https://goshippo.github.io/shipping-elements-react-demo/](https://goshippo.github.io/shipping-elements-react-demo/)
+
 ## Development
 
 In the project directory, you can run:
